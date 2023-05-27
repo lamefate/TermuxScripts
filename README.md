@@ -5,7 +5,9 @@
     + перейти по пути ~/../usr/etc
     + открыть bash.bashrc
 
-После этого в конец файла вставить `python {path}/{filename}.py`(Python) или `./{path}/{filename}`(Bash)
++ После этого в конец файла вставить:
+    + `python {path}/{filename}.py`(Python)
+    + `./{path}/{filename}`(Bash)
 
 + Примеры:
     + `python /data/data/com.termux/files/home/list_aliases.py`
